@@ -6,6 +6,8 @@ A decentralized binary package manager
 
 https://github.com/txthinking/nami
 
+---
+
 ### [brook](https://github.com/txthinking/brook)
 
 Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
