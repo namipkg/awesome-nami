@@ -1,6 +1,6 @@
 # awesome-nami
 
-## Nami
+### Nami
 
 A decentralized binary package manager
 
