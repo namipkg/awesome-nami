@@ -6,6 +6,8 @@ A decentralized binary package manager
 
 https://github.com/txthinking/nami
 
+❤️ PR your software ❤️
+
 ---
 
 ### [brook](https://github.com/txthinking/brook)
