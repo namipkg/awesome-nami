@@ -26,6 +26,14 @@ Fast, multi-platform web server with automatic HTTPS
 nami install github.com/namipkg/caddy
 ```
 
+### [cidr-merger](https://github.com/brook-community/cidr-merger)
+
+A simple utility to merge ip/ip cidr/ip range, support IPv4/IPv6
+
+```
+nami install github.com/brook-community/cidr-merger
+```
+
 ### [cloudflare](https://github.com/txthinking/cloudflare)
 
 cloudflare cli
@@ -66,12 +74,20 @@ ipio can convert Network/IPv4/IPv6 layer packets to Transport/TCP/UDP layer pack
 nami install github.com/txthinking/ipio
 ```
 
-### [jq](https://github.com/namipkg/jq)
+### [jinbe](https://github.com/txthinking/jinbe)
 
-jq is a lightweight and flexible command-line JSON processor.
+Jinbe can add auto start command at boot
 
 ```
-nami install github.com/namipkg/jq
+nami install github.com/txthinking/jinbe
+```
+
+### [jinbe](https://github.com/brook-community/jinbe)(Rust port of jinbe)
+
+Jinbe can add auto start command at boot
+
+```
+nami install github.com/brook-community/jinbe
 ```
 
 ### [joker](https://github.com/txthinking/joker)
@@ -80,6 +96,22 @@ Joker can turn process into daemon. Zero-Configuration.
 
 ```
 nami install github.com/txthinking/joker
+```
+
+### [jq](https://github.com/namipkg/jq)
+
+jq is a lightweight and flexible command-line JSON processor.
+
+```
+nami install github.com/namipkg/jq
+```
+
+### [mad](https://github.com/txthinking/mad)
+
+Generate root CA and derivative certificate for any domains and any IPs.
+
+```
+nami install github.com/txthinking/mad
 ```
 
 ### [mr2](https://github.com/txthinking/mr2)
@@ -106,6 +138,28 @@ Test TCP and UDP of socks5 server
 nami install github.com/brook-community/testsocks5
 ```
 
+### [urlencode](https://github.com/brook-community/urlencode)
 
+urlencode is a RFC3986 url encoding command
+
+```
+nami install github.com/brook-community/urlencode
+```
+
+### [zonenetclient](https://github.com/zonenetio/zonenetclient)
+
+Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere
+
+```
+nami install github.com/zonenetio/zonenetclient
+```
+
+### [zonenetserver](https://github.com/zonenetio/zonenetserver)
+
+Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere
+
+```
+nami install github.com/zonenetio/zonenetserver
+```
 
 
